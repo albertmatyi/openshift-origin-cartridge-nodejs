@@ -10,6 +10,7 @@
     "jade": "*",
     "grunt": "*",
     "grunt-cli": "*",
-    "bower": "*"
+    "bower": "*",
+    "meteor": "*"
   }
 }
