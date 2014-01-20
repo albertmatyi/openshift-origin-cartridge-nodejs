@@ -1,12 +1,12 @@
 Name: nodejs
 Cartridge-Short-Name: NODEJS
-Display-Name: Node.js 0.10
+Display-Name: Node.js 0.10.24
 Description: "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js is perfect for data-intensive real-time applications that run across distributed devices."
 Version: "0.10"
-Source-Url: "git@github.com:albertmatyi/openshift-origin-cartridge-nodejs.git"
+Source-Url: "https://www.dropbox.com/s/j8d6cs7p3casb8p/openshift-origin-cartridge-nodejs.tar.gz"
 License: MIT License
-License-Url: https://raw.github.com/joyent/node/v0.10/LICENSE
-Vendor: www.nodejs.org
+License-Url: "https://raw.github.com/joyent/node/v0.10/LICENSE"
+Vendor: "www.nodejs.org"
 Website: "http://www.nodejs.org/"
 Install-Build-Required: true
 Cartridge-Version: 0.0.1
@@ -52,7 +52,7 @@ Cart-Data:
 Suggests:
 
 Provides:
-  - nodejs-0.10
+  - "nodejs-0.10"
   - "nodejs"
   - "nodejs (version) = 0.10.24"
   - "nodejs (version) = 0.10"
