@@ -3,7 +3,7 @@ Cartridge-Short-Name: NODEJS
 Display-Name: Node.js 0.10.24
 Description: "Node.js is a platform built on Chrome's JavaScript runtime for easily building fast, scalable network applications. Node.js is perfect for data-intensive real-time applications that run across distributed devices."
 Version: "0.10"
-Source-Url: "https://www.dropbox.com/s/j8d6cs7p3casb8p/openshift-origin-cartridge-nodejs.tar.gz"
+Source-Url: "https://dl.dropbox.com/s/j8d6cs7p3casb8p/openshift-origin-cartridge-nodejs.tar.gz"
 License: MIT License
 License-Url: "https://raw.github.com/joyent/node/v0.10/LICENSE"
 Vendor: "www.nodejs.org"
